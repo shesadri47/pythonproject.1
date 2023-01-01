@@ -1,0 +1,3 @@
+STUDENT ID        Name                 Class Roll Number
+ECE2201        RAHUL VERMA                 1
+ECE2202        ROHIT SEAL                 2

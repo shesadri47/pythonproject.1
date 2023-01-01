@@ -1,0 +1,14 @@
+STUDENT ID : 
+ECE2201
+NAME : 
+RAHUL VERMA
+Class Roll Number : 
+1
+Batch ID : 
+ECE22
+SUBJECTS : 
+Physics
+34
+GRADE : G
+Total : 34
+Overall Grade : G

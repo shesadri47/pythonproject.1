@@ -1,0 +1,5 @@
+Student ID          Name                Roll No.          Marks          Grade
+CSE2201             ROHIT AGGARWAL         1                 65             D
+CSE2101             MOHIT VERMA         1                 78             C
+ECE2201             RAHUL VERMA         1                 34             G
+ECE2202             ROHIT SEAL         2                 95             A
